@@ -1,2 +1,2 @@
 
-See the [roadmap](roadmap) for functionality implementation
+Look at the [Feature status page](feature_status) for more information about what functionality is available.
