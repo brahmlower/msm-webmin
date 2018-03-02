@@ -1,5 +1,2 @@
----
-title: Minecraft Server Manager Webmin Module
-layout: 
----
 
+See the [roadmap](roadmap) for functionality implementation
