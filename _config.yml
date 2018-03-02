@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Minecraft Server Manager Webmin Module
-description: A handy Webmin module for managing your Minecraft servers
-site:
-  show_downloads: true
+#description: A handy Webmin module for managing your Minecraft servers
+#site:
+#  show_downloads: true
