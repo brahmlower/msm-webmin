@@ -6,7 +6,6 @@ more time and energy to accomplish, and will be delayed until later releases.
 - ✅ Complete
 - ⚠️ Partial
 - ❌ Missing or broken
-- ⚪ Not applicable
 
 ## Setup Commands
 
@@ -21,11 +20,11 @@ more time and energy to accomplish, and will be delayed until later releases.
 
 | Feature       | Library | Webmin UI |
 |---------------|---------|-----------|
-| Start         | ⚠️ [docs](library#msm_server_start)         | ❌ |
-| Stop          | ✅ [docs](library#msm_server_stop)          | ❌ |
-| Restart       | ⚠️ [docs](library#msm_server_start)         | ❌ |
-| Status        | ✅ [docs](library#msm_server_status)        | ❌ |
-| Connected     | ✅ [docs](library#msm_server_connected)     | ❌ |
+| Start         | ⚠️ [docs](library#msm_server_start)         | ✅ |
+| Stop          | ✅ [docs](library#msm_server_stop)          | ✅ |
+| Restart       | ⚠️ [docs](library#msm_server_start)         | ✅ |
+| Status        | ✅ [docs](library#msm_server_status)        | ✅ |
+| Connected     | ✅ [docs](library#msm_server_connected)     | ✅ |
 | Worlds List   | ✅ [docs](library#msm_server_worlds_list)   | ❌ |
 | Worlds Load   | ✅ [docs](library#msm_server_worlds_load)   | ❌ |
 | Worlds Ram    | ✅ [docs](library#msm_server_worlds_ram)    | ❌ |
@@ -33,8 +32,8 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Worlds Backup | ✅ [docs](library#msm_server_worlds_backup) | ❌ |
 | Worlds On     | ✅ [docs](library#msm_server_worlds_on)     | ❌ |
 | Worlds Off    | ✅ [docs](library#msm_server_worlds_off)    | ❌ |
-| Logroll       | ✅ [docs](library#msm_server_logroll)       | ❌ |
-| Backup        | ✅ [docs](library#msm_server_backup)        | ❌ |
+| Logroll       | ✅ [docs](library#msm_server_logroll)       | ✅ (I think) |
+| Backup        | ✅ [docs](library#msm_server_backup)        | ✅ (I think) |
 | Jar           | ✅ [docs](library#msm_server_jar)           | ❌ |
 | Console       | ❌ | ❌ |
 | Config List   | ❌ | ❌ |
@@ -48,22 +47,22 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Whitelist Off           | ✅ [docs](library#msm_server_start)          | ❌ |
 | Whitelist Add           | ✅ [docs](library#msm_server_start)          | ❌ |
 | Whitelist Remove        | ✅ [docs](library#msm_server_start)          | ❌ |
-| Whitelist List          | ✅ [docs](library#msm_server_start)          | ❌ |
+| Whitelist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
 | Blacklist Player Add    | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist Player Remove | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist IP Add        | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist IP Remove     | ✅ [docs](library#msm_server_start)          | ❌ |
-| Blacklist List          | ✅ [docs](library#msm_server_start)          | ❌ |
+| Blacklist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
 | Operator Add            | ✅ [docs](library#msm_server_start)          | ❌ |
 | Operator Remove         | ✅ [docs](library#msm_server_start)          | ❌ |
-| Operator List           | ✅ [docs](library#msm_server_start)          | ❌ |
+| Operator List           | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
 | Gamemode Survival       | ✅ [docs](library#msm_server_gm_survival)    | ❌ |
 | Gamemode Creative       | ✅ [docs](library#msm_server_gm_creative)    | ❌ |
 | Kick                    | ✅ [docs](library#msm_server_kick)           | ❌ |
 | Say                     | ✅ [docs](library#msm_server_say)            | ❌ |
 | Time Set                | ✅ [docs](library#msm_server_time_set)       | ❌ |
 | Time Add                | ✅ [docs](library#msm_server_time_add)       | ❌ |
-| Toggle Downfall         | ✅ [docs](library#msm_server_toggledownfall) | ❌ |
+| Toggle Downfall         | ✅ [docs](library#msm_server_toggledownfall) | ✅ |
 | Give                    | ✅ [docs](library#msm_server_give)           | ❌ |
 | Xp                      | ✅ [docs](library#msm_server_xp)             | ❌ |
 | Save On                 | ✅ [docs](library#msm_server_save_on)        | ❌ |
@@ -77,7 +76,7 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Feature             | Library | Webmin UI |
 |---------------------|---------|-----------|
 | Jargroup List       | ✅ [docs](library#msm_jargroup_list)      | ✅ |
-| Jargroup Files      | ✅ [docs](library#msm_jargroup_files)     | ❌ |
+| Jargroup Files      | ✅ [docs](library#msm_jargroup_files)     | ✅ |
 | Jargroup Create     | ✅ [docs](library#msm_jargroup_create)    | ❌ |
 | Jargroup Delete     | ✅ [docs](library#msm_jargroup_delete)    | ❌ |
 | Jargroup Rename     | ✅ [docs](library#msm_jargroup_rename)    | ❌ |
@@ -88,9 +87,9 @@ more time and energy to accomplish, and will be delayed until later releases.
 
 | Feature | Library | Webmin UI |
 |---------|---------|-----------|
-| Start   | ✅ [docs](library#msm_global_start) | ❌ |
-| Stop    | ✅ [docs](library#msm_global_start) | ❌ |
-| Restart | ✅ [docs](library#msm_global_start) | ❌ |
-| Version | ✅ [docs](library#msm_global_start) | ⚪ |
+| Start   | ✅ [docs](library#msm_global_start) | ✅ |
+| Stop    | ✅ [docs](library#msm_global_start) | ✅ |
+| Restart | ✅ [docs](library#msm_global_start) | ✅ |
+| Version | ✅ [docs](library#msm_global_start) | ✅ |
 | Config  | ❌ [docs](library#msm_global_start) | ❌ |
 | Update  | ✅ [docs](library#msm_global_start) | ❌ |
