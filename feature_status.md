@@ -12,9 +12,9 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Feature       | Library | Webmin UI |
 |---------------|---------|-----------|
 | Server List   | ✅ [docs](library#msm_server_list)   | ✅ |
-| Server Create | ✅ [docs](library#msm_server_create) | ❌ |
-| Server Delete | ✅ [docs](library#msm_server_delete) | ❌ |
-| Server Rename | ✅ [docs](library#msm_server_rename) | ❌ |
+| Server Create | ✅ [docs](library#msm_server_create) | ✅ |
+| Server Delete | ✅ [docs](library#msm_server_delete) | ✅ |
+| Server Rename | ✅ [docs](library#msm_server_rename) | ✅ |
 
 ## Server Management Commands
 
@@ -32,8 +32,8 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Worlds Backup | ✅ [docs](library#msm_server_worlds_backup) | ❌ |
 | Worlds On     | ✅ [docs](library#msm_server_worlds_on)     | ❌ |
 | Worlds Off    | ✅ [docs](library#msm_server_worlds_off)    | ❌ |
-| Logroll       | ✅ [docs](library#msm_server_logroll)       | ✅ (I think) |
-| Backup        | ✅ [docs](library#msm_server_backup)        | ✅ (I think) |
+| Logroll       | ✅ [docs](library#msm_server_logroll)       | ✅ |
+| Backup        | ✅ [docs](library#msm_server_backup)        | ✅ |
 | Jar           | ✅ [docs](library#msm_server_jar)           | ❌ |
 | Console       | ❌ | ❌ |
 | Config List   | ❌ | ❌ |
