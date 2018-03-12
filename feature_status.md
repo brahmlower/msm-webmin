@@ -46,24 +46,24 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Whitelist On            | ✅ [docs](library#msm_server_start)          | ❌ |
 | Whitelist Off           | ✅ [docs](library#msm_server_start)          | ❌ |
 | Whitelist Add           | ✅ [docs](library#msm_server_start)          | ✅ |
-| Whitelist Remove        | ✅ [docs](library#msm_server_start)          | ❌ |
+| Whitelist Remove        | ✅ [docs](library#msm_server_start)          | ✅ |
 | Whitelist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
-| Blacklist Player Add    | ✅ [docs](library#msm_server_start)          | ❌ |
-| Blacklist Player Remove | ✅ [docs](library#msm_server_start)          | ❌ |
+| Blacklist Player Add    | ✅ [docs](library#msm_server_start)          | ✅ |
+| Blacklist Player Remove | ✅ [docs](library#msm_server_start)          | ✅ |
 | Blacklist IP Add        | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist IP Remove     | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
 | Operator Add            | ✅ [docs](library#msm_server_start)          | ✅ |
-| Operator Remove         | ✅ [docs](library#msm_server_start)          | ❌ |
+| Operator Remove         | ✅ [docs](library#msm_server_start)          | ✅ |
 | Operator List           | ✅ [docs](library#msm_server_start)          | ⚠️ [Possible MSM bug](https://github.com/bplower/webmin-minecraft-server-manager/issues/1) |
 | Gamemode Survival       | ✅ [docs](library#msm_server_gm_survival)    | ❌ |
 | Gamemode Creative       | ✅ [docs](library#msm_server_gm_creative)    | ❌ |
 | Kick                    | ✅ [docs](library#msm_server_kick)           | ✅ |
 | Say                     | ✅ [docs](library#msm_server_say)            | ✅ |
-| Time Set                | ✅ [docs](library#msm_server_time_set)       | ❌ |
-| Time Add                | ✅ [docs](library#msm_server_time_add)       | ❌ |
+| Time Set                | ✅ [docs](library#msm_server_time_set)       | ✅ |
+| Time Add                | ✅ [docs](library#msm_server_time_add)       | ✅ |
 | Toggle Downfall         | ✅ [docs](library#msm_server_toggledownfall) | ✅ |
-| Give                    | ✅ [docs](library#msm_server_give)           | ❌ |
+| Give                    | ✅ [docs](library#msm_server_give)           | ✅ |
 | Xp                      | ✅ [docs](library#msm_server_xp)             | ✅ |
 | Save On                 | ✅ [docs](library#msm_server_save_on)        | ❌ |
 | Save Off                | ✅ [docs](library#msm_server_save_off)       | ❌ |
