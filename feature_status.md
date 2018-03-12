@@ -59,7 +59,7 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Gamemode Survival       | ✅ [docs](library#msm_server_gm_survival)    | ❌ |
 | Gamemode Creative       | ✅ [docs](library#msm_server_gm_creative)    | ❌ |
 | Kick                    | ✅ [docs](library#msm_server_kick)           | ✅ |
-| Say                     | ✅ [docs](library#msm_server_say)            | ❌ |
+| Say                     | ✅ [docs](library#msm_server_say)            | ✅ |
 | Time Set                | ✅ [docs](library#msm_server_time_set)       | ❌ |
 | Time Add                | ✅ [docs](library#msm_server_time_add)       | ❌ |
 | Toggle Downfall         | ✅ [docs](library#msm_server_toggledownfall) | ✅ |
