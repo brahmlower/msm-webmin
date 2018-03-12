@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Minecraft Server Manager Webmin Module
+google_analytics: UA-115470016-1
 #description: A handy Webmin module for managing your Minecraft servers
 #site:
 #  show_downloads: true
