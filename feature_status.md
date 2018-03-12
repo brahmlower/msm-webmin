@@ -64,11 +64,11 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Time Add                | ✅ [docs](library#msm_server_time_add)       | ❌ |
 | Toggle Downfall         | ✅ [docs](library#msm_server_toggledownfall) | ✅ |
 | Give                    | ✅ [docs](library#msm_server_give)           | ❌ |
-| Xp                      | ✅ [docs](library#msm_server_xp)             | ❌ |
+| Xp                      | ✅ [docs](library#msm_server_xp)             | ✅ |
 | Save On                 | ✅ [docs](library#msm_server_save_on)        | ❌ |
 | Save Off                | ✅ [docs](library#msm_server_save_off)       | ❌ |
 | Save All                | ✅ [docs](library#msm_server_save_all)       | ❌ |
-| Cmd                     | ✅ [docs](library#msm_server_cmd)            | ❌ |
+| Cmd                     | ✅ [docs](library#msm_server_cmd)            | ✅ |
 | Cmd Log                 | ✅ [docs](library#msm_server_cmdlog)         | ❌ |
 
 ## Jar Commands
