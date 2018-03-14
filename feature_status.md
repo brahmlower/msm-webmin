@@ -26,10 +26,10 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Status        | ✅ [docs](library#msm_server_status)        | ✅ |
 | Connected     | ✅ [docs](library#msm_server_connected)     | ✅ |
 | Worlds List   | ✅ [docs](library#msm_server_worlds_list)   | ❌ |
-| Worlds Load   | ✅ [docs](library#msm_server_worlds_load)   | ❌ |
+| Worlds Load   | ✅ [docs](library#msm_server_worlds_load)   | ✅ |
 | Worlds Ram    | ✅ [docs](library#msm_server_worlds_ram)    | ❌ |
-| Worlds Todisk | ✅ [docs](library#msm_server_worlds_todisk) | ❌ |
-| Worlds Backup | ✅ [docs](library#msm_server_worlds_backup) | ❌ |
+| Worlds Todisk | ✅ [docs](library#msm_server_worlds_todisk) | ✅ |
+| Worlds Backup | ✅ [docs](library#msm_server_worlds_backup) | ✅ |
 | Worlds On     | ✅ [docs](library#msm_server_worlds_on)     | ❌ |
 | Worlds Off    | ✅ [docs](library#msm_server_worlds_off)    | ❌ |
 | Logroll       | ✅ [docs](library#msm_server_logroll)       | ✅ |
