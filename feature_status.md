@@ -43,8 +43,8 @@ more time and energy to accomplish, and will be delayed until later releases.
 
 | Feature                 | Library | Webmin UI |
 |-------------------------|---------|-----------|
-| Whitelist On            | ✅ [docs](library#msm_server_start)          | ❌ |
-| Whitelist Off           | ✅ [docs](library#msm_server_start)          | ❌ |
+| Whitelist On            | ✅ [docs](library#msm_server_start)          | ✅ |
+| Whitelist Off           | ✅ [docs](library#msm_server_start)          | ✅ |
 | Whitelist Add           | ✅ [docs](library#msm_server_start)          | ✅ |
 | Whitelist Remove        | ✅ [docs](library#msm_server_start)          | ✅ |
 | Whitelist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
