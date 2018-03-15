@@ -56,8 +56,8 @@ more time and energy to accomplish, and will be delayed until later releases.
 | Operator Add            | ✅ [docs](library#msm_server_start)          | ✅ |
 | Operator Remove         | ✅ [docs](library#msm_server_start)          | ✅ |
 | Operator List           | ✅ [docs](library#msm_server_start)          | ⚠️ [Possible MSM bug](https://github.com/bplower/webmin-minecraft-server-manager/issues/1) |
-| Gamemode Survival       | ✅ [docs](library#msm_server_gm_survival)    | ❌ |
-| Gamemode Creative       | ✅ [docs](library#msm_server_gm_creative)    | ❌ |
+| Gamemode Survival       | ✅ [docs](library#msm_server_gm_survival)    | ✅ |
+| Gamemode Creative       | ✅ [docs](library#msm_server_gm_creative)    | ✅ |
 | Kick                    | ✅ [docs](library#msm_server_kick)           | ✅ |
 | Say                     | ✅ [docs](library#msm_server_say)            | ✅ |
 | Time Set                | ✅ [docs](library#msm_server_time_set)       | ✅ |
