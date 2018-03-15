@@ -20,9 +20,9 @@ more time and energy to accomplish, and will be delayed until later releases.
 
 | Feature       | Library | Webmin UI |
 |---------------|---------|-----------|
-| Start         | ⚠️ [docs](library#msm_server_start)         | ✅ |
+| Start         | ✅ [docs](library#msm_server_start)         | ✅ |
 | Stop          | ✅ [docs](library#msm_server_stop)          | ✅ |
-| Restart       | ⚠️ [docs](library#msm_server_start)         | ✅ |
+| Restart       | ✅ [docs](library#msm_server_start)         | ✅ |
 | Status        | ✅ [docs](library#msm_server_status)        | ✅ |
 | Connected     | ✅ [docs](library#msm_server_connected)     | ✅ |
 | Worlds List   | ✅ [docs](library#msm_server_worlds_list)   | ✅ |
@@ -45,16 +45,16 @@ more time and energy to accomplish, and will be delayed until later releases.
 |-------------------------|---------|-----------|
 | Whitelist On            | ✅ [docs](library#msm_server_start)          | ✅ |
 | Whitelist Off           | ✅ [docs](library#msm_server_start)          | ✅ |
-| Whitelist Add           | ✅ [docs](library#msm_server_start)          | ✅ |
-| Whitelist Remove        | ✅ [docs](library#msm_server_start)          | ✅ |
+| Whitelist Add           | ✅ [docs](library#msm_server_start)          | ✅ (through player management only) |
+| Whitelist Remove        | ✅ [docs](library#msm_server_start)          | ✅ (through player management only) |
 | Whitelist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
-| Blacklist Player Add    | ✅ [docs](library#msm_server_start)          | ✅ |
-| Blacklist Player Remove | ✅ [docs](library#msm_server_start)          | ✅ |
+| Blacklist Player Add    | ✅ [docs](library#msm_server_start)          | ✅ (through player management only) |
+| Blacklist Player Remove | ✅ [docs](library#msm_server_start)          | ✅ (through player management only) |
 | Blacklist IP Add        | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist IP Remove     | ✅ [docs](library#msm_server_start)          | ❌ |
 | Blacklist List          | ✅ [docs](library#msm_server_start)          | ⚠️ (Possible MSM bug) |
-| Operator Add            | ✅ [docs](library#msm_server_start)          | ✅ |
-| Operator Remove         | ✅ [docs](library#msm_server_start)          | ✅ |
+| Operator Add            | ✅ [docs](library#msm_server_start)          | ✅ (through player management only) |
+| Operator Remove         | ✅ [docs](library#msm_server_start)          | ✅ (through player management only) |
 | Operator List           | ✅ [docs](library#msm_server_start)          | ⚠️ [Possible MSM bug](https://github.com/bplower/webmin-minecraft-server-manager/issues/1) |
 | Gamemode Survival       | ✅ [docs](library#msm_server_gm_survival)    | ✅ |
 | Gamemode Creative       | ✅ [docs](library#msm_server_gm_creative)    | ✅ |
