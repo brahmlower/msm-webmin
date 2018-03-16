@@ -1,0 +1,86 @@
+
+index_directory=Serve pages from directory
+index_server_table_name=Server List
+index_server_table_empty=No servers have been created. Make one!
+index_server_create=Create a new server
+index_jargroup_table_name=Jargroup List
+index_jargroup_table_empty=No Jargroups available.
+index_jargroup_create=Create a new Jargroup
+
+jargroup_getlatest=Get Latest
+jargroup_getlatest_description=Gets the latest Jar files
+jargroup_delete=Delete Jargroup
+jargroup_delete_description=Deletes this current Jargroup.
+jargroup_table_name=Jar Files
+jargroup_table_empty=This Jargroup has no files associated with it.
+
+server_users_connected_table_name=Users Connected
+server_users_connected_table_empty=There are no users connected
+
+index_return=module index
+edit_title=Edit Website
+create_title=Create Website
+edit_header=Foobar Webserver website details
+edit_domain=Website domain name
+edit_directory=Directory containing website contents
+
+save_err=Failed to save website
+save_edomain=Missing or invalid domain name
+save_edirectory=Directory must be an absolute path
+save_edirectory2=Directory does not exist
+save_egone=Website no longer exists
+
+log_create=Created website $1
+log_modify=Modified website $1
+log_delete=Deleted website $1
+
+
+
+
+
+
+options_title=Edit Config
+options_header=Available Configurations
+options__username=Username
+options__server_storage_path=Server Storage Path
+options__jar_storage_path=Jar Storage Path
+options__versioning_storage_path=Versioning Storage Path
+options__ramdisk_storage_enabled=Ramdisk Storage Enabled
+options__ramdisk_storage_path=Ramdisk Storage Path
+options__world_archive_enabled=World Archive Enabled
+options__world_archive_path=World Archive Path
+options__log_archive_path=Log Archive Path
+options__backup_archive_path=Backup Archive Path
+options__rdiff_backup_enabled=Rdiff Backup Enabled
+options__rdiff_backup_rotation=Rdiff Backup Rotation
+options__rdiff_backup_nice=Rdiff Backup Nice
+options__world_rdiff_path=World Rdiff Path
+options__rsync_backup_enabled=Rsync Backup Enabled
+options__world_rsync_path=World Rsync Path
+options__default_username=Default Username
+options__default_screen_name=Default Screen Name
+options__default_world_storage_path=Default World Storage Path
+options__default_world_storage_inactive_path=Default World Storage Inactive Path
+options__default_complete_backup_follow_symlinks=Default Complete Backup Follow Symlinks
+options__default_log_path=Default Log Path
+options__default_properties_path=Default Properties
+options__default_whitelist_path=Default Whitelist
+options__default_banned_players_path=Default Banned Players
+options__default_banned_ips_path=Default Banned IPs
+options__default_ops_path=Default Ops Path
+options__default_ops_list=Default Ops List
+options__default_jar_path=Default Jar Path
+options__default_ram=Default RAM
+options__default_invocation=Default Invocation
+options__default_stop_delay=Default Stop Delay
+options__default_restart_delay=Default Restart Delay
+options__default_message_stop=Default Message Stop
+options__default_message_restart=Default Message Restart
+options__default_message_restart_abort=Default Message Restart Abort
+options__default_message_world_backup_started=Default Message World Backup Started
+options__default_message_world_backup_finished=Default Message World Backup Finished
+options__default_message_complete_backup_started=Default Message Complete Backup
+options__default_message_complete_backup_finished=Default Message Complete Backup Finished
+
+
+
