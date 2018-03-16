@@ -5,8 +5,8 @@ require 'msm-lib.pl';
 
 $version = msm_global_version();
 
-ui_print_header(undef, $module_info{'desc'}, "", undef, 1, 1, 0,
-                undef, undef, undef, "Version: $version");
+ui_print_header(undef, "$module_info{desc} (Version $version)", "", undef, 1, 1, 0,
+                undef, undef, undef, "MSM Webmin plugin version: $module_info{version}");
 
 # print ui_hr();
 
